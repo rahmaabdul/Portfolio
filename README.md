@@ -1,7 +1,7 @@
 # Description
 This is a 3 pages portfolio applicaion and it was created using HTML CSS and a bit of Javascript.
 
-#### The 3 sections of thi application includes:
+#### The 3 sections of this application as mentioned above in the description  includes:
 * Home page
 * Portfolio
 * Contact
