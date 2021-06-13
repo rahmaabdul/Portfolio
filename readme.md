@@ -12,3 +12,11 @@ Here are some screenshots of the finished portfolio:
 {image}
 - footer - the portfolio ends with a message to thank the visitor along with a copyright claim.
 {image} 
+
+Deployed site below:
+
+https://rahmaabdul.github.io/Portfolio/
+
+github repo:
+
+https://github.com/rahmaabdul/Portfolio
