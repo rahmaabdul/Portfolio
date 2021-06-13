@@ -1,7 +1,8 @@
 /* home-css */
 .home {
   min-height: 100vh;
-  background-image: url("../img/hero.png");
+  background-color: rgb(116, 85, 50);
+
   background-size: cover;
   background-position: center;
   padding: 15px;
@@ -10,6 +11,7 @@
 .full-screen {
   min-height: 100vh;
 }
+
 .home-content {
   display: flex;
   flex-wrap: wrap;
@@ -26,27 +28,32 @@
   border-left: 3px solid rgb(236, 241, 250);
   margin-top: 50px;
 }
+
 .block h1 {
   font-size: 70px;
   font-weight: 600;
   margin: 0;
   padding: 0;
 }
+
 .block h3 {
   font-size: 25px;
   font-weight: 500;
   margin: 0;
   padding: 0;
 }
+
 .block h6 {
   font-size: 18px;
   font-weight: 500;
   margin: 0;
   padding: 0;
 }
+
 .cv-btn {
   padding-top: 20px;
 }
+
 .cv-btn a {
   font-size: 14px;
   color: rgb(236, 241, 250);
@@ -60,10 +67,12 @@
   cursor: pointer;
   transition: all 0.5s ease;
 }
+
 .cv-btn a:hover {
   background-color: #fff;
   color: #000;
 }
+
 /* 
 about-css */
 .about {
@@ -197,7 +206,7 @@ about-css */
 
 /* projects-css */
 .projects {
-  background-color: rgb(236, 241, 250);
+  background-color: rgb(116, 85, 50);
   padding: 100px 15px 70px;
 }
 
@@ -287,7 +296,8 @@ about-css */
 }
 
 .contact-form {
-  background-color: #fff;
+  background-color: rgb(116, 85, 50);
+  ;
   flex: 0 0 100%;
   max-width: 100%;
   padding: 40px;
@@ -488,7 +498,7 @@ header .row {
 /* footer-css */
 footer {
   padding: 70px 15px;
-  background-color: #01143e;
+  background-color: rgb(116, 85, 50);
 }
 
 .footer-logo {
@@ -520,7 +530,7 @@ footer {
 }
 
 .copyright {
-  background-color: #01143e;
+  background-color: rgb(116, 85, 50);
   border-top: 1px solid #423940;
   padding: 15px;
 }
@@ -797,37 +807,3 @@ a {
 
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
