@@ -54,6 +54,7 @@
   padding-top: 20px;
 }
 
+/* "hire me" button styling */
 .cv-btn a {
   font-size: 14px;
   color: rgb(236, 241, 250);
@@ -80,6 +81,7 @@ about-css */
   background-color: #fff;
 }
 
+/* image styling */
 .img {
   flex: 0 0 40%;
   max-width: 50%;
@@ -91,6 +93,7 @@ about-css */
   display: block;
 }
 
+/* styling for About me text */
 .text {
   flex: 0 0 50%;
   max-width: 50%;
