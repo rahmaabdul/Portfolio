@@ -1,7 +1,7 @@
 /* home-css */
 .home {
   min-height: 100vh;
-  background-color: rgb(116, 85, 50);
+  background-color: rgb(7, 4, 58);
 
   background-size: cover;
   background-position: center;
@@ -166,13 +166,13 @@ about-css */
 .fa-ul li {
   font-size: 14px;
   font-weight: 400;
-  color: #838383
+  color: #838383;
 }
 
 .fa-ul .fa-li {
   font-size: 14px;
   font-weight: 400;
-  color: #838383
+  color: #838383;
 }
 
 .social {
@@ -199,7 +199,7 @@ about-css */
 }
 
 .social a .fa {
-  color: #fff;
+  color: rgb(52, 50, 56);
   font-size: 14px;
 }
 
@@ -209,7 +209,7 @@ about-css */
 
 /* projects-css */
 .projects {
-  background-color: rgb(116, 85, 50);
+  background-color: rgb(7, 4, 58);
   padding: 100px 15px 70px;
 }
 
@@ -299,8 +299,7 @@ about-css */
 }
 
 .contact-form {
-  background-color: rgb(116, 85, 50);
-  ;
+  background-color: rgb(7, 4, 58);
   flex: 0 0 100%;
   max-width: 100%;
   padding: 40px;
@@ -356,7 +355,6 @@ about-css */
   font-size: 14px;
   font-weight: 400;
   font-family: "Montserrat", sans-serif;
-
 }
 
 .contact-form textarea.form-control {
@@ -365,7 +363,7 @@ about-css */
 }
 
 .form-control::placeholder {
-  color: #838383
+  color: #838383;
 }
 
 .contact-form .button {
@@ -426,7 +424,7 @@ header .row {
   font-weight: 500;
   color: rgb(236, 241, 250);
   position: relative;
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
 }
 
 .fixed .brand-name a {
@@ -497,21 +495,20 @@ header .row {
   left: 0;
 }
 
-
 /* footer-css */
 footer {
   padding: 70px 15px;
-  background-color: rgb(116, 85, 50);
+  background-color: rgb(7, 4, 58);
 }
 
 .footer-logo {
   flex: 0 0 100%;
   max-width: 100%;
   text-align: center;
-  font-size: 45px;
-  font-family: 'Lobster', cursive;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   color: rgb(236, 241, 250);
-  font-weight: 900;
+  font: weight 900px;
 }
 
 .social-link {
@@ -529,11 +526,11 @@ footer {
 }
 
 .social-link a:hover {
-  color: rgb(236, 241, 250)
+  color: rgb(236, 241, 250);
 }
 
 .copyright {
-  background-color: rgb(116, 85, 50);
+  background-color: rgb(7, 4, 58);
   border-top: 1px solid #423940;
   padding: 15px;
 }
@@ -546,10 +543,9 @@ footer {
   color: rgb(236, 241, 250);
 }
 
-
 /* main-css */
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
 
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css");
 @import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
@@ -657,13 +653,13 @@ a {
   color: #000;
 }
 
-@media(max-width: 991px) {
+@media (max-width: 991px) {
   .block h1 {
     font-size: 50px;
   }
 }
 
-@media(max-width: 767px) {
+@media (max-width: 767px) {
   .home .home-content .block h1 {
     font-size: 40px;
   }
@@ -684,7 +680,6 @@ a {
   }
 
   .hamburger .fa {
-
     display: inline-block;
   }
 
@@ -707,7 +702,6 @@ a {
   .navbar ul li {
     display: block;
     margin-left: 0;
-
   }
 
   .navbar ul li a {
@@ -754,7 +748,6 @@ a {
     flex: 0 0 100%;
     max-width: 100%;
     text-align: left;
-
   }
 
   .blog-content {
@@ -777,7 +770,7 @@ a {
   }
 }
 
-@media(max-width: 500px) {
+@media (max-width: 500px) {
   .home .home-content .block {
     padding-left: 20px;
   }
@@ -807,6 +800,5 @@ a {
   .testimonials-img .test-img {
     flex: 0 0 100%;
     max-width: 100%;
-
   }
 }
